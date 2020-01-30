@@ -1,6 +1,6 @@
 # https://github.com/docker-library/ghost
 
-## Maintained by: [the Docker Community](https://github.com/docker-library/ghost)
+## Maintained by: [the Docker Community](https://github.com/kathpalrk/ghost-docker)
 
 This is the Git repo of the [Docker "Official Image"](https://github.com/docker-library/official-images#what-are-official-images) for [`ghost`](https://hub.docker.com/_/ghost/) (not to be confused with any official `ghost` image provided by `ghost` upstream). See [the Docker Hub page](https://hub.docker.com/_/ghost/) for the full readme on how to use this Docker image and for information regarding contributing and issues.
 
