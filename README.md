@@ -1,4 +1,4 @@
-# https://github.com/docker-library/ghost
+# https://github.com/kathpalrk/ghost-docker
 
 ## Maintained by: [the Docker Community](https://github.com/kathpalrk/ghost-docker)
 
